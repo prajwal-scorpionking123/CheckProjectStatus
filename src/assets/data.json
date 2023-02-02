@@ -1,0 +1,78 @@
+[
+    {
+        "links": [
+            {
+                "videoUrl": [
+                    "https://drive.google.com/file/d/1hBqJFFE-UeLQfm0S-WlEnshr5N-EiFIC/preview",
+                    "https://drive.google.com/file/d/1m8-WEoAWtJqe4Olo5aplqNTKXiBy_yQr/preview"
+
+                ],
+                "MDfileNameKey": "how_to_setup_client"
+            }
+        ],
+        "title": "Plugin Overview"
+    },
+    {
+        "links": [
+            {
+                "videoUrl": [
+                    "https://drive.google.com/file/d/1iiCpbmEzrnN5iVmnb9QleG3kcOHOe7vp/preview",
+                    "https://drive.google.com/file/d/1m8-WEoAWtJqe4Olo5aplqNTKXiBy_yQr/preview"
+
+                ],
+                "MDfileNameKey": "setup_coresls"
+            }
+        ],
+        "title": "CS,V2 & SLS Setup"
+    },
+    {
+        "links": [
+            {
+                "videoUrl": [
+                    "https://drive.google.com/file/d/1lW8Kf8rylyuuNIa9YDSXRTwgiuYD53Ul/preview",
+                    "https://drive.google.com/file/d/1m8-WEoAWtJqe4Olo5aplqNTKXiBy_yQr/preview"
+                ],
+                "MDfileNameKey": "test"
+            }
+        ],
+        "title": "Service registration & execution in V2"
+    },
+    {
+        "links": [
+            {
+                "videoUrl": [
+                    "https://drive.google.com/file/d/1ci5NF4b6xihPhR_zCnkPyim94V3T3lma/preview",
+                    "https://drive.google.com/file/d/1m8-WEoAWtJqe4Olo5aplqNTKXiBy_yQr/preview"
+
+                ],
+                "MDfileNameKey": "test"
+            }
+        ],
+        "title": "Project configuration parsing & execution"
+    },
+    {
+        "links": [
+            {
+                "videoUrl": [
+                    "https://drive.google.com/file/d/1dnnZCUaR15TVF6ILzRb7BrdOgwQck2_f/preview",
+                    "https://drive.google.com/file/d/1m8-WEoAWtJqe4Olo5aplqNTKXiBy_yQr/preview"
+
+                ],
+                "MDfileNameKey": "test"
+            }
+        ],
+        "title": "Loading BL's in memory"
+    },
+    {
+        "links": [
+            {
+                "videoUrl": [
+                    "https://drive.google.com/file/d/1m8-WEoAWtJqe4Olo5aplqNTKXiBy_yQr/preview",
+                    "https://drive.google.com/file/d/1m8-WEoAWtJqe4Olo5aplqNTKXiBy_yQr/preview"
+                ],
+                "MDfileNameKey": "test"
+            }
+        ],
+        "title": "Runtime data processing"
+    }
+]
